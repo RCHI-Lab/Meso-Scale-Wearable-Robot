@@ -22,10 +22,10 @@ F. Liu, V. Patil, Z. Erickson, and Z. Temel “Characterization of a Meso-Scale 
 
 ##### Bibtex
 ```
-@article{liu2022hybrid,
-  title={Hybrid Robotic Grasping with a Soft Multimodal Gripper and a Deep Multistage Learning Scheme},
-  author={Liu, Fukang and Fang, Bin and Sun, Fuchun and Li, Xiang and Sun, Songyu and Liu, Huaping},
-  journal={arXiv preprint arXiv:2202.12796},
+@article{liu2022characterization,
+  title={Characterization of a Meso-Scale Wearable Robot for Bathing Assistance},
+  author={Liu, Fukang and Patil, Vaidehi and Erickson, Zackory and Temel, Zeynep},
+  journal={arXiv preprint arXiv:2202.13008},
   year={2022}
 }
 ```
