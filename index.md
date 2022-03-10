@@ -4,7 +4,7 @@
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
-    <iframe src="https://www.youtube.com/embed/oTO2NqfSAXw" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+    <iframe src="https://youtu.be/H2iM9ygAi5Y" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
   </div>
 </div>
