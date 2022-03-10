@@ -1,6 +1,6 @@
-# Bodies Uncovered: Learning to Manipulate Real Blankets Around People via Physics Simulations
-**Kavya Puthuveetil (Georgia Tech), Charles C. Kemp (Georgia Tech), Zackory Erickson (CMU)**
-Published in IEEE Robotics and Automation Letters (RA-L) and selected for presentation at the International Conference on Robotics and Automation (ICRA) 2022
+# Characterization of a Meso-Scale Wearable Robot for Bathing Assistance
+**Fukang Liu (CMU), Vaidehi Patil (CMU), Zackory Erickson (CMU), Zeynep Temel (CMU)**
+<!--Published in IEEE Robotics and Automation Letters (RA-L) and selected for presentation at the IEEE/RSJ International Conference on Intelligent Robots and Systems (ICRA) 2022-->
 
 <div>
   <div style="position:relative;padding-top:56.25%;">
@@ -10,26 +10,23 @@ Published in IEEE Robotics and Automation Letters (RA-L) and selected for presen
 </div>
 
 ## Abstract
-While robots present an opportunity to provide physical assistance to older adults and people with mobility impairments in bed, people frequently rest in bed with blankets that cover the majority of their body. To provide assistance for many daily self-care tasks, such as bathing, dressing, or ambulating, a caregiver must first uncover blankets from part of a person's body. In this work, we introduce a formulation for robotic bedding manipulation around people in which a robot uncovers a blanket from a target body part while ensuring the rest of the human body remains covered. We compare two approaches for optimizing policies which provide a robot with grasp and release points that uncover a target part of the body: 1) reinforcement learning and 2) self-supervised learning with optimization to generate training data. We trained and conducted evaluations of these policies in physics simulation environments that consist of a deformable cloth mesh covering a simulated human lying supine on a bed. In addition, we transfer simulation-trained policies to a real mobile manipulator and demonstrate that it can uncover a blanket from target body parts of a manikin lying in bed. Source code is available online.
+While Robotic bathing assistance has long been considered an important and practical task in healthcare. Yet, achieving flexible and efficient cleaning tasks on the human
+body is challenging, since washing the body involves direct human-robot physical contact and simple, safe, and effective devices are needed for bathing and hygiene. In this paper, we present a meso-scale wearable robot that can locomote along the human body to provide bathing and skin care assistance. We evaluated the cleaning performance of the robot system under different scenarios. The experiments on the pipe show that the robot can achieve cleaning percentage over 92% with two types of stretchable fabrics. The robot removed most of the debris with average values of 94% on a human arm and 93% on a manikin torso. The results demonstrate that the robot exhibits high performance in cleaning tasks.
 
 
 ## Citation
 
-##### ["Bodies Uncovered: Learning to Manipulate Real Blankets Around People via Physics Simulations"](https://arxiv.org/abs/2109.04930)
+##### ["Characterization of a Meso-Scale Wearable Robot for Bathing Assistance"](https://arxiv.org/abs/2202.13008)
 
-K. Puthuveetil, C. C. Kemp, and Z. Erickson, “Bodies Uncovered: Learning to Manipulate Real Blankets Around People via Physics Simulations,” IEEE Robotics and Automation Letters (RA-L), 2022.
+F. Liu, V. Patil, Z. Erickson, and Z. Temel “Characterization of a Meso-Scale Wearable Robot for Bathing Assistance,” arXiv preprint arXiv:2202.13008 (2022).
 
 ##### Bibtex
 ```
-@article{puthuveetil2022bodies,
-    author={Puthuveetil, Kavya and Kemp, Charles C. and Erickson, Zackory},
-    journal={IEEE Robotics and Automation Letters}, 
-    title={Bodies Uncovered: Learning to Manipulate Real Blankets Around People via Physics Simulations}, 
-    year={2022},
-    volume={7},
-    number={2},
-    pages={1984-1991},
-    doi={10.1109/LRA.2022.3142732}
+@article{liu2022hybrid,
+  title={Hybrid Robotic Grasping with a Soft Multimodal Gripper and a Deep Multistage Learning Scheme},
+  author={Liu, Fukang and Fang, Bin and Sun, Fuchun and Li, Xiang and Sun, Songyu and Liu, Huaping},
+  journal={arXiv preprint arXiv:2202.12796},
+  year={2022}
 }
 ```
 
