@@ -1,8 +1,7 @@
 # Characterization of a Meso-Scale Wearable Robot for Bathing Assistance
-**Fukang Liu, Vaidehi Patil, Zackory Erickson, and Zeynep Temel**
+**Fukang Liu, Vaidehi Patil, Zackory Erickson, and Zeynep Temel**   
 Submitted to IEEE Robotics and Automation Letters (RA-L) with IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022
 <!--Published in IEEE Robotics and Automation Letters (RA-L) and selected for presentation at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2022-->
-
 <div>
   <div style="position:relative;padding-top:56.25%;">
     <iframe src="https://www.youtube.com/embed/jg78ppCogy8" frameborder="0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
